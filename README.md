@@ -1,2 +1,13 @@
-# cyberpunkbooks
-Being annoying on github and placing my sentient AI books in a repo because why not.
+# an introduction
+### Being annoying on github because this used to be my home
+Hi github friends. My name is K. Leigh. You don't know me, but I probably know you, considering I'm on github almost every single day looking at all the incredible things you're working on, building and exploring. My home used to be tech, you see. I was the creative front-end of your robust back-end, a solid project manager, the copy-monkey for your UI, and more. I'm well-versed in developer, marketer and stakeholder speak, too. But as much as I loved being in tech, it also bothered me.
+# leaving it all behind
+### But first, the warning bells
+Breaking out of tech wasn't a rash decision. I didn't just stop during a Zoom meeting, rip off my PS1 hoodie and scream "I QUIT!" in some goofy CEO's headphones. What I did do was slowly feel the sinking dread of a tech tool renaissance with 0% foresight from any leaders in the space. Yes, this is about <a href="https://constelisvoss.com/pages/constelis-voss-sentient-ai-books">artificial intelligence</a>. When COVID struck, mortality's legitimacy punted me in the face, and I took action. I warned everyone I could about the lack of preparation for AI Alignment, GIGO, systemic garbage and more. But I knew pretty early-on that I wasn't going to be listened to. I was a random freelancer who just happened to make a decent career, solo. My usefulness to tech (broadly) stopped being applicable the minute I wasn't doing labor. So, I aimed to do something else. I aimed to change culture with <a href="https://constelisvoss.com/collections/constelis-voss-ebooks">cyberpunk books</a>.
+# where i am now
+### Probably on a fool's errand
+I know there's really no stopping the artificial intelligence kick we're on right now, and I don't aim to do that with a dinky sci-fi trilogy. What I do aim to do is bring tech-creative acumen to fiction. I also aim to push cultural, media, and digital literacy with 90s-flavored, anime-inspired sci-fi books. I know what I'm doing, what I'm trying to do, and so far? It's working. But I miss this crowd and I think y'all are probably the ones who get my concerns with the tech industry and AI far better than legitimately anyone else. So, I am here, writing a ridiculous README just to see if I can't get you to check out some books.
+# the end
+### Or maybe the beginning?
+<a href="https://constelisvoss.com/"> CONSTELIS VOSS</a> is just the start. With 7 more books planned beyond the trilogy, and one currently in the works for a launch in the near future, I'm lowkey approaching this like a series of features for a single idea. The idea being: <i>I believe something is fundamentally broken with the world and how we humans broadly approach improving it, and I'd like to explore every angle of that.</i> Well, that's it. I will possibly make some sort of technological contribution to my own value-causes in the foreseeable future with trans techy buddies, but right now? I'm writing. I hope you like the work and I miss this space. Thank you. 
+Best, Kira Leigh
